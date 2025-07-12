@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Docker config files (not needed inside image)
+.dockerignore
+docker-compose.yml
+jenkinsfile
+
+# VS Code
+.vscode/
+
+# Logs or OS
+*.log
+.DS_Store
+Thumbs.db
